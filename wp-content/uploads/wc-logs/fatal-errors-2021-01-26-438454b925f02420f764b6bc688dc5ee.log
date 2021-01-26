@@ -1,0 +1,4 @@
+2021-01-26T11:13:00+00:00 CRITICAL Cannot redeclare wc_product_sold_count() (previously declared in C:\wamp\www\addweb\wp-content\themes\astra\functions.php:165) in C:\wamp\www\addweb\wp-content\themes\astra\functions.php on line 181
+
+2021-01-26T11:13:01+00:00 CRITICAL Cannot redeclare wc_product_sold_count() (previously declared in C:\wamp\www\addweb\wp-content\themes\astra\functions.php:165) in C:\wamp\www\addweb\wp-content\themes\astra\functions.php on line 181
+
